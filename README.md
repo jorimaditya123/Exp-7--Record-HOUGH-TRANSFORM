@@ -139,5 +139,5 @@ Thus, the lane detection pipeline is successfully implemented by completing the 
 
 ##  Developed By
 
-* **Name:** Aman Nair
-* **Register No:** 212225240008
+* **Name:** Aditya Jorim F S
+* **Register No:** 212225240004
